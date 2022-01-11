@@ -1,6 +1,6 @@
 # climax
 
-A new Flutter project.
+This is a simple weather app that tells the weather condition using your current location. Climax is also capable of telling weather condition of other major cities just by using the city name
 
 ## Getting Started
 
